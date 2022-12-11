@@ -56,3 +56,5 @@ function clearData() {
   refs.countryInfo.innerHTML = '';
   refs.countryList.innerHTML = '';
 }
+
+// console.log();
